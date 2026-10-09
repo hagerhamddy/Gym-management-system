@@ -1,0 +1,17 @@
+=== MEMBERS ===
+220|omar|90|m|1111|gold|12/03|12/03/2008|none|Inactive
+692501355|Yasir hosni mohamed|19|Male|01031589837|Basic|01/05/2026|01/10/2026|None|Inactive
+12345|omaar|90|m|01122|basic|12/12/2000|12/12/2001|none|Active
+245|Yasir|19|Male|25924|Premium|10/10/2000|10/12/2020|Noa|Active
+0||19|||||||Active
+29402||19|Male|2945|Basic|01/01/2026|01/10/2026|None|Active
+1223||19|male|0259134|Basic|01/01/2000|01/01/2000|None|Active
+=== TRAINERS ===
+=== PAYMENTS ===
+=== ATTENDANCE ===
+220|13/03/2007|01:05|02:10
+454|55|444|4
+692501355|05/01/2026|04:40|06:40
+=== EXERCISES ===
+bench press|3|8|120
+=== WORKOUT_PROGRAMS ===
